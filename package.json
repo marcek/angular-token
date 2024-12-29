@@ -1,14 +1,14 @@
 {
   "name": "angular-token-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:lib": "ng build @effy-tech/angular-token",
+    "build:lib": "ng build @marcek/angular-token",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "test:lib": "ng test @effy-tech/angular-token",
+    "test:lib": "ng test @marcek/angular-token",
     "publish:lib": "npm publish ./dist/angular-token"
   },
   "private": true,
